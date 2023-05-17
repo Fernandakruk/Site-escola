@@ -1,6 +1,6 @@
 *{
-    margin: -6px;
-    padding: 0%;
+    margin: -8;
+    padding: 9;
 
 }
 .cabecalho {
@@ -17,7 +17,28 @@ padding: 24px 0;
 
 .cabecalho-lista-item {
 display: inline-block;
-margin: 20 16px;
+margin: 0 16px;
 font-size: 24px;
 }
 
+.escola{
+background-color: #414B64;
+   color: antiquewhite;
+display:flex;
+justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.escola-div-conteudo{
+    width: 40%;
+}
+
+.escola-imagem{
+
+    width: 30%   
+}
+
+.escola-titulo{
+    padding: 24px 0;
+}
